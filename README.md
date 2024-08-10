@@ -1,4 +1,4 @@
-# DillynsRig
+# DillynsRig - Gaming PC for the kid!
 
 <h2>My PC Build</h2>
 
