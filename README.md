@@ -1,6 +1,6 @@
 # DillynsRig - Gaming PC for the kid!
 
-<h2>My PC Build</h2>
+
 
 <p>In 2022, I put together a new PC with the following components. This build offers a balance of performance and features for both gaming and productivity. The list below is a summary from the parts that I used as described on PC Parts Picker</p>
 
